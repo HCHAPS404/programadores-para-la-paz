@@ -1,0 +1,8 @@
+Es importante que las comunidades e iniciativas ciudadanas puedan construir herramientas tecnológicas propias porque así responden mejor a sus necesidades reales.
+No siempre una solución externa entiende el contexto, los problemas y las prioridades de una comunidad.
+Con tecnologías como Node.js es posible crear servidores, aplicaciones y APIs que apoyen procesos sociales, educativos o comunitarios.
+Estas herramientas pueden servir para organizar información, comunicar actividades, recibir datos o facilitar la participación de más personas.
+Además, aprender a construir tecnología fortalece la autonomía digital y reduce la dependencia de plataformas cerradas.
+Cuando una comunidad entiende cómo funciona una aplicación, también puede mejorarla, adaptarla y cuidarla con más responsabilidad.
+Node.js permite iniciar proyectos web de forma práctica, usando JavaScript tanto para aprender como para crear soluciones reales.
+Por eso, desarrollar herramientas propias puede convertir la tecnología en un medio para colaborar, resolver problemas y construir ciudadanía.
