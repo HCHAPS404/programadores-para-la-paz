@@ -1,0 +1,8 @@
+Es importante que las plataformas comunitarias funcionen de forma estable porque muchas personas dependen de ellas para reportar, consultar o participar.
+Si el servidor falla con frecuencia, la informacion puede perderse o dejar de estar disponible.
+La seguridad tambien es clave, porque en una plataforma comunitaria pueden manejarse datos de usuarios, reportes o actividades.
+Un servidor bien configurado ayuda a proteger esa informacion y a evitar accesos no autorizados.
+Monitorear el sistema y revisar los logs permite detectar errores antes de que afecten a toda la comunidad.
+Tener un entorno ordenado, con sistema operativo, aplicacion y puerto bien definidos, facilita el mantenimiento.
+Cuando una plataforma es estable y segura, la comunidad puede confiar mas en usarla.
+Por eso, cuidar el servidor no es solo un tema tecnico, tambien afecta la participacion y el funcionamiento de los procesos comunitarios.

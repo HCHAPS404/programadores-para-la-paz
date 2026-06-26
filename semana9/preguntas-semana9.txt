@@ -1,0 +1,11 @@
+Pregunta 1:
+Respuesta: B. Un sistema que ejecuta aplicaciones y responde solicitudes de los usuarios.
+
+Pregunta 2:
+Respuesta: B. Que el servidor esta esperando solicitudes en una direccion especifica.
+
+Pregunta 3:
+Respuesta: B. Monitorear ejecucion y registrar errores.
+
+Pregunta 4:
+Respuesta: A. Archivos que registran la actividad y eventos del sistema.

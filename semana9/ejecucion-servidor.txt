@@ -1,0 +1,22 @@
+Registro de ejecucion del servidor
+
+Comando usado:
+node server.js
+
+Que pasa al ejecutar node server.js:
+Al correr el comando, Node.js inicia la aplicacion definida en server.js.
+El servidor queda activo y empieza a escuchar peticiones en el puerto 3000.
+
+Mensaje que aparece en la terminal:
+Servidor ejecutandose en puerto 3000
+
+Que pasa al visitar http://localhost:3000:
+El navegador muestra el mensaje:
+Servidor activo y funcionando
+
+Que pasa al visitar http://localhost:3000/estado:
+El servidor responde con un JSON como este:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
