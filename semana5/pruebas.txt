@@ -1,0 +1,13 @@
+Pruebas de rutas del servidor
+
+Ruta: http://localhost:3000
+Resultado: El servidor responde con el mensaje "Servidor activo". Esta ruta confirma que la aplicación Express está funcionando correctamente.
+
+Ruta: http://localhost:3000/saludo
+Resultado: El servidor responde con el mensaje "Hola comunidad". Esta ruta muestra una respuesta fija para saludar a los usuarios.
+
+Ruta: http://localhost:3000/mensaje/juan
+Resultado: El servidor responde con el mensaje "Hola juan". Esta ruta usa el parámetro de la URL para personalizar la respuesta según el nombre escrito.
+
+Ruta POST: http://localhost:3000/reporte
+Resultado esperado: Al enviar un JSON con un mensaje, el servidor responde con el estado "Reporte recibido" y devuelve el mensaje recibido.
