@@ -1,8 +1,7 @@
-Es importante que una comunidad pueda registrar reportes o incidencias porque asi los problemas no quedan solo en conversaciones sueltas.
-Cuando los reportes se guardan en una plataforma, es mas facil saber que paso, donde paso y que tipo de situacion se repite.
-Tambien ayuda a que las personas encargadas puedan revisar la informacion con mas orden y tomar decisiones.
-Por ejemplo, si varios vecinos reportan fallas de alumbrado, se puede ver que es un problema frecuente.
-Consultar los reportes despues de registrarlos permite hacer seguimiento y no olvidar los casos pendientes.
-Este tipo de herramientas puede servir para temas de infraestructura, ambiente, seguridad o actividades comunitarias.
-Aunque el ejemplo guarda los datos solo en memoria, muestra la idea basica de recibir informacion y luego consultarla.
-Por eso, una plataforma de reportes puede mejorar la organizacion y la participacion dentro de una comunidad.
+Guardar reportes en una lista dentro del servidor es un buen ejercicio para entender cómo funciona una API sencilla.
+Primero envío un POST y el servidor agrega el dato; luego con GET /reportes veo todo lo guardado.
+En el ejemplo los datos viven solo en memoria, así que si apago el servidor se pierden.
+Aun así, la lógica es la misma que usaría una app real antes de conectar una base de datos.
+Si varios vecinos reportan lo mismo, tener la lista ayuda a ver patrones.
+Consultar los reportes después de registrarlos permite hacer seguimiento sin depender de mensajes sueltos.
+Para una comunidad, eso puede mejorar la organización de problemas del entorno.

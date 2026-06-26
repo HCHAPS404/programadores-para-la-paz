@@ -1,8 +1,7 @@
-Las APIs pueden ayudar a que las comunidades compartan información de manera más organizada porque permiten enviar y recibir datos desde diferentes herramientas.
-Por ejemplo, una aplicación comunitaria podría usar una API para registrar reportes, alertas, solicitudes de ayuda o novedades importantes.
-Esto evita que la información quede dispersa en chats, papeles o mensajes difíciles de encontrar.
-Con una API, los datos pueden almacenarse de forma estructurada y consultarse cuando sea necesario.
-También permite que distintas aplicaciones se conecten entre sí, como una página web, una aplicación móvil o un panel de administración.
-En una comunidad, esto puede facilitar la coordinación entre vecinos, líderes, organizaciones y voluntarios.
-Además, las APIs ayudan a responder más rápido ante situaciones importantes porque centralizan la información recibida.
-Por eso, aprender a construir APIs es útil para crear soluciones tecnológicas que fortalezcan la comunicación y la participación ciudadana.
+Las APIs ayudan a que la información no quede regada en chats o mensajes sueltos.
+Con una ruta POST se puede recibir un reporte con datos claros: tipo, mensaje, descripción, etc.
+Después otra ruta GET puede mostrar lo que ya llegó.
+Eso facilita organizar alertas, solicitudes o novedades de una comunidad.
+También permite que una misma API la use una página web u otra aplicación más adelante.
+En la práctica, una API es como un punto de entrada para enviar y consultar datos.
+Para procesos participativos, tener esa estructura hace más fácil dar seguimiento a lo que reportan las personas.

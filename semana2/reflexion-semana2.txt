@@ -1,8 +1,6 @@
-Saber usar la terminal es fundamental para un desarrollador porque permite moverse rápidamente por la estructura de un proyecto sin depender solo del explorador gráfico.
-Con comandos como pwd, ls, mkdir y cd se puede verificar en qué carpeta se está trabajando y organizar archivos de forma precisa.
-Esto es especialmente útil cuando un repositorio crece y tiene muchas carpetas, como semana1, semana2, documentación o código fuente.
-La terminal también hace más eficientes tareas repetitivas, como crear varios archivos a la vez con touch o preparar carpetas nuevas con mkdir.
-Además, muchas herramientas de desarrollo, como Git, se usan principalmente desde la terminal.
-Dominar estos comandos básicos ayuda a evitar errores al guardar archivos en la ubicación incorrecta.
-También facilita seguir instrucciones técnicas, documentación y flujos de trabajo profesionales.
-En resumen, la terminal es una herramienta clave para navegar, organizar y mantener un proyecto de forma ordenada y confiable.
+La terminal me parece útil porque con ella muevo los archivos del proyecto sin depender solo del explorador gráfico.
+Con pwd sé en qué carpeta estoy, con ls veo qué hay y con mkdir o touch creo lo que necesito.
+Cuando el repo tiene varias carpetas como semana1, semana2 y semana3, es más fácil ubicarse desde la terminal.
+También usé la terminal para los comandos de Git y para entrar a cada carpeta de la semana.
+Si guardo algo en la ruta equivocada, después cuesta encontrarlo; por eso prefiero revisar con pwd antes de crear archivos.
+En general, la terminal ayuda a trabajar con más orden en un proyecto de código.
