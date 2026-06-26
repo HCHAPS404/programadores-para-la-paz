@@ -1,0 +1,9 @@
+El uso responsable de la información en internet implica verificar fuentes, pensar antes de compartir y respetar a quienes leen lo que publicamos.
+Esa misma actitud fortalece la participación ciudadana, porque una sociedad informada puede debatir, decidir y actuar con criterio en lugar de reaccionar a rumores.
+Cuando compartimos datos sin comprobarlos, contribuimos a la desinformación y debilitamos el diálogo público.
+En cambio, cuando verificamos antes de publicar, ayudamos a que más personas tomen decisiones con base en hechos reales.
+En el trabajo técnico, herramientas como Git nos enseñan a organizar el cambio de forma ordenada: cada aporte queda registrado, se puede revisar y corregir sin perder el historial.
+Eso se parece mucho a una conversación pública sana, donde las ideas se construyen en conjunto y se puede volver atrás si algo no es correcto.
+Git también promueve el trabajo colaborativo, porque varias personas pueden aportar, revisar y mejorar un mismo proyecto sin perder el control de lo que se hizo.
+Por eso veo una relación directa entre ciudadanía digital y programación: en ambos casos importa la responsabilidad, la trazabilidad y el trabajo en equipo para lograr resultados confiables.
+Aprender a usar bien internet y aprender a usar bien Git nos preparan para participar de manera más consciente en la sociedad y en el mundo del software.
