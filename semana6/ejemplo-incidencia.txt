@@ -1,0 +1,13 @@
+Ejemplo de JSON para reportar una incidencia comunitaria
+
+{
+  "tipo": "Iluminacion publica",
+  "descripcion": "La comunidad reporta que una lampara del parque no funciona desde hace varios dias."
+}
+
+Respuesta esperada del servidor:
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Iluminacion publica",
+  "descripcion": "La comunidad reporta que una lampara del parque no funciona desde hace varios dias."
+}

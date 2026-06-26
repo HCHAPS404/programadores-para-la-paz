@@ -1,0 +1,8 @@
+Es importante que las plataformas tecnológicas puedan recibir reportes o información ciudadana de forma estructurada porque así los datos se pueden organizar mejor.
+Cuando una persona envía un reporte con campos claros, como nombre, tipo de incidencia y descripción, es más fácil entender qué ocurrió.
+Esto evita que la información llegue incompleta, desordenada o difícil de revisar.
+También permite que las comunidades clasifiquen problemas, prioricen necesidades y hagan seguimiento a cada caso.
+Por ejemplo, una plataforma podría recibir reportes sobre seguridad, iluminación, limpieza, actividades o solicitudes de apoyo.
+Si esos datos se almacenan de manera ordenada, pueden convertirse en evidencia para tomar decisiones comunitarias.
+Además, recibir información por medio de una API facilita conectar páginas web, aplicaciones móviles y sistemas de administración.
+Por eso, estructurar los datos ciudadanos ayuda a mejorar la comunicación, la respuesta y la participación dentro de una comunidad.
