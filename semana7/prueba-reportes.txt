@@ -1,0 +1,25 @@
+Prueba de reportes
+
+Primero se envia un reporte usando la ruta POST:
+http://localhost:3000/reportes
+
+JSON enviado:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Dano en alumbrado publico"
+}
+
+Respuesta esperada:
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Dano en alumbrado publico"
+  }
+}
+
+Luego se consulta la ruta GET:
+http://localhost:3000/reportes
+
+Al consultar la ruta, el servidor devuelve la lista de reportes guardados en memoria. Si se agregan mas reportes, aparecen dentro del mismo arreglo mientras el servidor siga encendido.
