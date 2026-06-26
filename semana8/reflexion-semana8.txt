@@ -1,0 +1,8 @@
+La seguridad digital es importante porque muchas plataformas comunitarias manejan datos de personas reales.
+Si esa informacion no se cuida, puede terminar expuesta o ser usada de forma incorrecta.
+En procesos participativos, la confianza es clave para que la comunidad quiera reportar, opinar o compartir datos.
+Por eso es necesario proteger credenciales, usar contrasenas fuertes y limitar el acceso a informacion sensible.
+Tambien ayuda mantener los sistemas actualizados, porque muchas fallas se corrigen con nuevas versiones del software.
+Conocer comandos basicos de Linux permite revisar el entorno donde funciona una plataforma y detectar posibles problemas.
+La seguridad no depende solo de herramientas, tambien depende de buenos habitos al usar y administrar los sistemas.
+Por eso, cuidar una plataforma tecnologica tambien es una forma de cuidar la participacion y la informacion de la comunidad.

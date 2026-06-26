@@ -1,0 +1,7 @@
+Buenas practicas de seguridad para plataformas comunitarias
+
+1. No exponer datos personales de los usuarios.
+2. Proteger credenciales y no compartir contrasenas.
+3. Usar conexiones seguras cuando se envie informacion.
+4. Registrar accesos para saber quien entra al sistema.
+5. Limitar el acceso a informacion sensible solo a personas autorizadas.

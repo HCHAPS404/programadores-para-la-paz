@@ -1,0 +1,18 @@
+Comandos usados:
+
+uname -a
+whoami
+
+Resultado de uname -a:
+Linux archlinux 7.0.12-arch1-1 #1 SMP PREEMPT_DYNAMIC Wed, 10 Jun 2026 08:58:02 +0000 x86_64 GNU/Linux
+
+Resultado de whoami:
+hell
+
+Que muestra cada comando:
+El comando uname -a muestra informacion general del sistema, como el nombre del sistema operativo, el kernel, la arquitectura y otros datos tecnicos.
+El comando whoami muestra el nombre del usuario que esta usando la terminal en ese momento.
+
+Por que es util conocer esta informacion:
+Conocer estos datos ayuda cuando se administra un servidor o se revisa un equipo, porque permite saber en que sistema se esta trabajando.
+Tambien sirve para diagnosticar problemas, instalar herramientas compatibles y confirmar si se estan usando los permisos correctos.
