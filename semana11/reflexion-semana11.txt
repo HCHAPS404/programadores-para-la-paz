@@ -1,0 +1,9 @@
+Una plataforma de participacion ciudadana no puede depender solo de mensajes sueltos o listas en memoria.
+La base de datos permite guardar causas y apoyos de forma ordenada, aunque se reinicie el servidor.
+Sin eso se pierde el historial y cuesta hacer seguimiento a lo que paso en la comunidad.
+La autenticacion ayuda a saber quien crea una causa o quien apoya, sin dejar todo abierto.
+No es lo mismo un visitante que un coordinador: cada uno deberia tener permisos distintos.
+Proteger la informacion evita que datos personales queden expuestos o se usen mal.
+En un proyecto comunitario la gente confia en que sus datos no van a terminar en cualquier lado.
+CRUD, login y buenas practicas de seguridad no son extras; son la base para que la plataforma sea util y confiable.
+Si la comunidad no confia, deja de participar y el sistema pierde sentido.

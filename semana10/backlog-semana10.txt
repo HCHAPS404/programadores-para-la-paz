@@ -1,0 +1,7 @@
+Backlog — historias de usuario (ordenadas por prioridad)
+
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+2. Como coordinador quiero recibir una alerta en Telegram para revisar un nuevo reporte.
+3. Como miembro del equipo quiero consultar reportes para hacer seguimiento.
+4. Como coordinador quiero ver el tipo y la fecha del reporte para priorizar la atención.
+5. Como ciudadano quiero recibir confirmación de que mi reporte quedó registrado.

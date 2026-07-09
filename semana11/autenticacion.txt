@@ -1,0 +1,7 @@
+El login permite identificar a un usuario antes de darle acceso a ciertas funciones.
+Sin eso cualquiera podria entrar y hacer cambios que no le corresponden.
+Algunas rutas deben estar protegidas porque pueden tener informacion privada,
+registros internos o acciones que no deberian estar abiertas al publico.
+Por ejemplo, crear una causa o ver datos de apoyos puede requerir sesion iniciada.
+No se deben exponer publicamente contrasenas, documentos de identidad, telefonos,
+direcciones, tokens, claves de API ni datos sensibles de la comunidad.

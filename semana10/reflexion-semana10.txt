@@ -1,0 +1,8 @@
+Antes trabajaba más por tareas sueltas; con el backlog se ve claro qué va primero y qué puede esperar.
+Las historias de usuario ayudan a pensar en la persona que usa el sistema, no solo en el código.
+En una veeduría o proyecto comunitario eso importa porque no todo el mundo tiene el mismo rol:
+un vecino reporta, un coordinador revisa y el equipo hace seguimiento.
+La iteración obliga a entregar algo usable en poco tiempo, aunque no esté todo perfecto.
+Me gusta la idea de n8n para avisos en Telegram sin programar todo desde cero.
+Sirve para coordinar al grupo cuando entra un reporte nuevo, siempre cuidando no mandar datos sensibles.
+En resumen, organizar el trabajo con prioridades y automatizar lo repetitivo deja más tiempo para lo que sí requiere criterio humano.

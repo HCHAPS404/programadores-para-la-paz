@@ -1,0 +1,22 @@
+Automatización simple — n8n y Telegram
+
+¿Qué evento activa el flujo?
+Cuando el servidor recibe un nuevo reporte por POST (por ejemplo en /reportes o /incidencia).
+
+¿Qué mensaje se enviaría a Telegram?
+"Nuevo reporte recibido. Tipo: Infraestructura. Revisar sistema."
+
+El mensaje solo indica que llegó algo nuevo y el tipo general del caso.
+No incluye datos personales ni detalles que identifiquen a nadie.
+
+¿Qué información no debería enviarse por seguridad?
+- Nombres completos de quien reporta.
+- Documentos de identidad.
+- Direcciones exactas o teléfonos.
+- Claves, tokens o datos sensibles del sistema.
+- Descripciones largas con información privada.
+
+Flujo resumido:
+1. El servidor guarda el reporte.
+2. n8n detecta el evento (webhook o consulta periódica).
+3. n8n arma un mensaje corto y lo manda al canal o grupo de Telegram del equipo.
