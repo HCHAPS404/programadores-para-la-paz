@@ -1,0 +1,10 @@
+Al principio del curso se puede decir que identificaba el sistema como comandos algo abstractos y en que el servidor respondiera en
+un puerto puntual como por ejemplo el 3000 que es para un sistema de desarrollo web en teste, aunque podría usar otro como el 8002 Para
+testeos y desarrollos de servidores locales. Pero despues vi que una API con POST y GET ayuda a ordenar reportes de la comunidad, y no a dejarlos en chats.
+Tambien note que guardar en memoria sirve para practicar, pero en algo real hace falta base de datos que se debe implementar.
+El backlog y las historias de usuario me hicieron priorizar: primero registrar, despues avisar, despues pulir.
+Telegram y n8n sirven para avisar al equipo sin complicar el codigo, siempre sin mandar datos sensibles.
+La idea de Peticion en 3 Clics resume bastante bien el curso: crear causa, sumar apoyos y sacar un PDF.
+La tecnologia no reemplaza la organizacion del barrio, pero si facilita dejar evidencia y hacer seguimiento.
+Si la plataforma es clara y cuida la privacidad, la gente confia mas y participa con menos miedo.
+Eso fue lo que mas me quedo: herramienta simple, datos minimos y entrega util para la comunidad.

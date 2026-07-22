@@ -1,0 +1,8 @@
+Flujo de Peticion en 3 Clics
+
+1. Un ciudadano entra y crea una causa con titulo y descripcion corta.
+2. El sistema guarda esa causa en la base de datos (ya no solo en memoria como en la semana 7).
+3. Otras personas ven la causa y le dan apoyo con un clic.
+4. El contador de apoyos sube cada vez que alguien se suma.
+5. Cuando hay suficientes apoyos, se genera un PDF con la peticion lista para presentar.
+6. Opcional: se avisa por Telegram al coordinador de que la peticion ya esta armada.

@@ -1,0 +1,8 @@
+Entidad: Causa
+Campos: id, titulo, descripcion, fecha
+Para que sirve: guardar la propuesta o problema que la comunidad quiere sacar adelante.
+
+Entidad: Apoyo
+Campos: id, causa_id, nombre, fecha
+Para que sirve: llevar la cuenta de quienes se suman a esa causa sin pedir datos de mas.
+El causa_id conecta cada apoyo con la causa correcta.

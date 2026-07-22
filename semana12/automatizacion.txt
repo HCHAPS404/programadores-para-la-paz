@@ -1,0 +1,14 @@
+Automatizacion con n8n y Telegram
+
+Evento que activa el flujo:
+Cuando alguien registra una causa nueva o cuando el contador de apoyos llega a un numero definido.
+
+Mensaje que se enviaria:
+"Nueva causa creada en la plataforma. Revisar listado."
+
+O si ya hay apoyos suficientes:
+"La causa ya tiene apoyos. Se puede generar el PDF."
+
+Informacion que no debe enviarse:
+cedulas, telefonos, direcciones, comentarios privados, contrasenas, tokens ni .env.
+Solo un aviso corto para que el equipo revise el sistema.
